@@ -1,5 +1,8 @@
 # Docker-Assignment
 
+Task-
+Creat a private registry
+
 Build the image 
 
 Push in to private registry 
