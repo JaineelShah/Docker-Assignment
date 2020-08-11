@@ -1,15 +1,12 @@
 # Docker-Assignment
 
-//docker test
+Build the image 
 
-//Pull the docker image
+Push in to private registry 
 
-docker pull devignesh/kloudone_test:latest
+Pull that image and run 
 
-//Run the docker image 
+Add content to index.html has
+ welcome to the  kloudone 
 
-docker run -it -d -p 8080:8080 devignesh/kloudone_test:latest
-
-//verify in your browser
-
-127.0.0.1:8080
+Verify it on the browser
